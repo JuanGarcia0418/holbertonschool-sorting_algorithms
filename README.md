@@ -1,5 +1,5 @@
 # Background Context
-This project is meant to be done by groups of two students. Each group of two should '#FF0000'pair program'#FF0000' for at least the mandatory part.
+This project is meant to be done by groups of two students. Each group of two should pair program for at least the mandatory part.
 
 # Resources
 ## Read or watch:
